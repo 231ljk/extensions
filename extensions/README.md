@@ -1,6 +1,6 @@
 # 中文程 (ZhongCheng) — TurboWarp 官方扩展
 
-[中文程](https://github.com/your-org/zhongcheng) 是一个自研的中文编程语言，本扩展将其完整的语言内核（词法分析器、语法分析器、异步解释器、标准库）直接内联到单个 JavaScript 文件中，实现**零依赖、零服务、完全离线运行**的 Scratch 3.0 / TurboWarp 扩展。
+[中文程](https://github.com/231ljk/zhongcheng) 是一个自研的中文编程语言，本扩展将其完整的语言内核（词法分析器、语法分析器、异步解释器、标准库）直接内联到单个 JavaScript 文件中，实现**零依赖、零服务、完全离线运行**的 Scratch 3.0 / TurboWarp 扩展。
 
 ## 特性
 
